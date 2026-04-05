@@ -1,0 +1,28 @@
+# Ignore datasets
+data/
+*.zip
+*.csv
+*.json
+
+# Ignore models
+models/
+*.pth
+*.h5
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Jupyter
+.ipynb_checkpoints/
+
+# OS junk
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Environment
+venv/
+.env
